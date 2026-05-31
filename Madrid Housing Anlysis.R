@@ -1,5 +1,5 @@
 # =========================================================
-# PROJECT: INTRODUCTION TO R (F2023-663, Fasih Ahmad)
+# PROJECT: INTRODUCTION TO R (Fasih Ahmad)
 # DATASET: Madrid Housing Market
 # STORIES: "Sunlight Premium" & "Diminishing Returns"
 # =========================================================
